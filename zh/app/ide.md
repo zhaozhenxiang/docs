@@ -14,11 +14,11 @@ W600芯片只有5mm x 5mm 大小，但集成度非常高。芯片内部集成了
 
 **·** **电脑**: 开发环境支持Keil 和GCC
 
-**·** **SDK**: [W600 最新SDK](https://github.com/w600/sdk)
+**·** **SDK**: [W600 最新SDK](http://github.com/w600/sdk)
 
 **·** **keil工具链**: MDK （Keil 开发）
 
-**·** **gcc开发环境**: [eclipse + cygwin+ gcc](https://eyun.baidu.com/s/3ghjX5xL)
+**·** **gcc开发环境**: [eclipse + cygwin+ gcc](http://eyun.baidu.com/s/3ghjX5xL)
 
 **·** **TB-01 开发板**（[购买链接](http://shop.thingsturn.com/)）
 
@@ -34,7 +34,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 ### **4.1 安装MDK 环境搭建**
 
-由于 SDK 需要 Cortex-M3 的 Device Pack 支持，如果在线下载速度较慢 或 安装遇到问题，建议安装 [MDK 5](https://www.keil.com/download/product/) 的同时也安装对应的 [Legacy 版本](http://www.keil.com/mdk5/legacy/)
+由于 SDK 需要 Cortex-M3 的 Device Pack 支持，如果在线下载速度较慢 或 安装遇到问题，建议安装 [MDK 5](http://www.keil.com/download/product/) 的同时也安装对应的 [Legacy 版本](http://www.keil.com/mdk5/legacy/)
 
 ![img](../.assets/app/ide/mdk_legacy.png)
 
@@ -117,7 +117,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 **注意：由于我们在硬件上将 W600 的 RESET 引脚和串口芯片的 RTS 引脚连接在了一起，当您在使用其它串口工具（如 SecureCRT）时，需要去掉开发板上面的 R100 电阻，否则串口可能会无输出。**
 
-固件烧录和调试需依赖[星通智联串口调试助手](https://docs.w600.fun/?p=tools/serial.md)
+固件烧录和调试需依赖[星通智联串口调试助手](http://w600.thingsturn.com/?p=tools/serial.md)
 
 ### **6.1 连接设备**
 
@@ -137,7 +137,7 @@ TB-01 是一款基于联盛德 W600 的超小体积核心开发板，该开发�
 
 1. 选择对应的固件，支持 FLS 和 img 格式；FLS 是 WM_W600_sec.img + secboot.img 的合并文件，一般用于芯片的首次下载，之后仅烧录 WM_W600_SEC.img即可。
 
-2.  点击“下载”进行固件下载，波特率默认使用 115200 bps，支持 2Mbps！； 烧录遇到问题的用户请参考:[W600固件烧录指南](https://docs.w600.fun/?p=app/download.md)
+2.  点击“下载”进行固件下载，波特率默认使用 115200 bps，支持 2Mbps！； 烧录遇到问题的用户请参考:[W600固件烧录指南](http://w600.thingsturn.com/?p=app/download.md)
 
 3.  观察固件运行信息
 

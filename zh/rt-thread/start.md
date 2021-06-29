@@ -2,13 +2,13 @@
 
 ## 1.RT-Thread 简介
 
-[RT-Thread](http://www.rt-thread.org/) 是一个来自中国的开源物联网操作系统，它具备非常强的可伸缩能力：从一个可以运行在ARM Cortex-M0 芯片上的极小内核，到中等的 ARM Cortex-M3/4/7系统，甚至是运行于 MIPS32、ARM Cortex-A 系列处理器上。 RT-Thread项目的源代码托管在 [GitHub repo](https://github.com/rt-thread) 上。
+[RT-Thread](http://www.rt-thread.org/) 是一个来自中国的开源物联网操作系统，它具备非常强的可伸缩能力：从一个可以运行在ARM Cortex-M0 芯片上的极小内核，到中等的 ARM Cortex-M3/4/7系统，甚至是运行于 MIPS32、ARM Cortex-A 系列处理器上。 RT-Thread项目的源代码托管在 [GitHub repo](http://github.com/rt-thread) 上。
 
 ## 2.准备工作
 
--   W60x\_RT-Thread源码：（请先使用GitHub版本 <https://github.com/RT-Thread/W601_IoT_Board>）
--   RT-Thread env工具：https://github.com/RT-Thread/env
--   串口下载工具：[串口调试助手](https://download.w600.fun/tool/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
+-   W60x\_RT-Thread源码：（请先使用GitHub版本 <http://github.com/RT-Thread/W601_IoT_Board>）
+-   RT-Thread env工具：http://github.com/RT-Thread/env
+-   串口下载工具：[串口调试助手](http://download1.thingsturn.com/tool/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
 -   正点原子W601全功能开发板（[购买链接](http://shop.thingsturn.com/)）
 
 ## 3.环境搭建
@@ -56,5 +56,5 @@ W600\_RT-Thread\_SDK 一共提供了35个示例
 
 ## 其它
 
-[正点原子W601开发板QQ交流群：797416020](https://jq.qq.com/?_wv=1027&k=5fcxk5i)
+[正点原子W601开发板QQ交流群：797416020](http://jq.qq.com/?_wv=1027&k=5fcxk5i)
 

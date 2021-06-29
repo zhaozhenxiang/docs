@@ -2,9 +2,9 @@
 
 ## 准备
 
-最新版本串口工具：[点击此处下载](https://download.w600.fun/?dir=tool)
+最新版本串口工具：[点击此处下载](http://download1.thingsturn.com/7_Tools)
 
-常用固件下载：[点击此处下载](https://download.w600.fun/?dir=firmware)
+常用固件下载：[点击此处下载](http://download1.thingsturn.com/8_FirmWare)
 
 ## 1.文件后缀类型说明
 

@@ -5,11 +5,11 @@
 ## 1 准备工作
 
 -   电脑：固件下载当前仅支持Windows操作系统
--   软件：[串口调试助手](https://download.w600.fun/tool/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
--   固件：[AT兼容固件](https://download.w600.fun/firmware/thingsturn_w600_at_v1.1.6_20190304.7z)
+-   软件：[串口调试助手](http://download1.thingsturn.com/tool/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
+-   固件：[AT兼容固件](http://download1.thingsturn.com/firmware/thingsturn_w600_at_v1.1.6_20190304.7z)
 -   硬件：TB-01开发板 或 W600系列模组、开发板（[购买链接](http://shop.thingsturn.com/)）
 -   Micro USB线
--   [兼容版本AT指令集手册](https://download.w600.fun/document/W600_%E5%85%BC%E5%AE%B9%E7%89%88AT%E6%8C%87%E4%BB%A4%E9%9B%86.pdf)
+-   ~~[兼容版本AT指令集手册](http://download1.thingsturn.com/document/W600_%E5%85%BC%E5%AE%B9%E7%89%88AT%E6%8C%87%E4%BB%A4%E9%9B%86.pdf)~~
 
 ## 2 开发板介绍
 
@@ -299,9 +299,9 @@ OK
 
 ## 5 资源下载
 
-[兼容版本AT固件](https://download.w600.fun/firmware/thingsturn_w600_at_v1.1.6_20190304.7z)
-[串口下载工具](https://download.w600.fun/tool/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
-[网络调试助手](https://download.w600.fun/tool/NetAssist.exe)
-[兼容版本AT指令集手册](https://download.w600.fun/document/W600_%E5%85%BC%E5%AE%B9%E7%89%88AT%E6%8C%87%E4%BB%A4%E9%9B%86.pdf)
-[兼容版本AT指令集使用参考示例](https://download.w600.fun/document/W600_%E5%85%BC%E5%AE%B9%E7%89%88AT%E6%8C%87%E4%BB%A4%E5%8F%82%E8%80%83%E7%A4%BA%E4%BE%8B.pdf)
+~~[兼容版本AT固件](http://download1.thingsturn.com/firmware/thingsturn_w600_at_v1.1.6_20190304.7z)~~
+[串口下载工具](http://download1.thingsturn.com/7_Tools/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
+[网络调试助手](http://download1.thingsturn.com/7_Tools/NetAssist.exe)
+~~[兼容版本AT指令集手册](http://download1.thingsturn.com/document/W600_%E5%85%BC%E5%AE%B9%E7%89%88AT%E6%8C%87%E4%BB%A4%E9%9B%86.pdf)~~
+~~[兼容版本AT指令集使用参考示例](http://download1.thingsturn.com/document/W600_%E5%85%BC%E5%AE%B9%E7%89%88AT%E6%8C%87%E4%BB%A4%E5%8F%82%E8%80%83%E7%A4%BA%E4%BE%8B.pdf)~~
 

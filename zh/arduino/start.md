@@ -2,7 +2,7 @@
 
 ## 1.简介
 
-[Arduino](https://baike.baidu.com/item/Arduino) 是一款便捷灵活、方便上手的开源电子原型平台。现在，W600芯片可以直接支持Arduino环境开发，开发者可以使用熟悉的Arduino函数和库编写代码，并直接在W600上面运行，无需外部微控制器。让开发者更便捷进行产品设计。
+[Arduino](http://baike.baidu.com/item/Arduino) 是一款便捷灵活、方便上手的开源电子原型平台。现在，W600芯片可以直接支持Arduino环境开发，开发者可以使用熟悉的Arduino函数和库编写代码，并直接在W600上面运行，无需外部微控制器。让开发者更便捷进行产品设计。
 
 ## 2.准备工作
 
@@ -12,7 +12,7 @@
 
 ## 3. 环境搭建
 
-1. 通过 https://www.arduino.cc/en/Main/Software 下载 Arduino IDE 开发环境，建议使用最新版本。
+1. 通过 http://www.arduino.cc/en/Main/Software 下载 Arduino IDE 开发环境，建议使用最新版本。
 2. 启动 Arduino，并打开“首选项”窗口。在附加开发板管理器网址中添加`http://arduino.w600.fun/package_w600_index.json`
 ![](../.assets/arduino/start/1556334078542.png)
 3. 打开菜单【工具】-》【开发板】-》【开发板管理器】
@@ -52,4 +52,4 @@
 
 ## 4 其他
 
-有任何疑问和建议，可在问答社区 https://ask.w600.fun 提出问题。
+有任何疑问和建议，可在问答社区 http://ask.w600.fun 提出问题。

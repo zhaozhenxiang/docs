@@ -51,11 +51,11 @@ TB-01开发板 * 1
 
 ## 资料下载
 
-[W600 SPI0 固件下载](https://download.w600.fun/firmware/w600_spi0_v3.2.0_20190916.fls)
+~~[W600 SPI0 固件下载](http://download1.thingsturn.com/firmware/w600_spi0_v3.2.0_20190916.fls)~~
 
-[W600 SPI1 固件下载](https://download.w600.fun/firmware/w600_spi1_v3.2.0_20190916.fls)
+~~[W600 SPI1 固件下载](http://download1.thingsturn.com/firmware/w600_spi1_v3.2.0_20190916.fls)~~
 
-[STM32 Demo 程序下载](https://download.w600.fun/firmware/stm32_spi_code.7z)
+~~[STM32 Demo 程序下载](http://download1.thingsturn.com/firmware/stm32_spi_code.7z)~~
 
-[W600 RI 指令集手册下载（较旧，仅供参考，新的文档还在整理中）](https://download.w600.fun/document/RI%E6%8C%87%E4%BB%A4%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf)
+[W600 RI 指令集手册下载（较旧，仅供参考，新的文档还在整理中）](http://download1.thingsturn.com/3_AT_Command/RI%E6%8C%87%E4%BB%A4%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf)
 

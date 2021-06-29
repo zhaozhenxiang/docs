@@ -11,7 +11,7 @@
 
 ## 二、QFlash驱动获取与配置
 
-获取QFlash <https://github.com/w600/W600_QFLASH_Driver_for_SWD>
+获取QFlash <http://github.com/w600/W600_QFLASH_Driver_for_SWD>
 
 参考Readme.md文件进行编译，获取QFlash驱动（注意，先把W600\_Keil的环境搭建好）
 
@@ -87,7 +87,7 @@ RAM 中运行程序。
 
 ![image](../.assets/app/swd/1547516288023.png)
 
-上图中，点击 Setting，如下图 Flash Download 标签中配置 RAM 和 Flash参数必须与前面配置的地址 一致，点击 Add 按钮选择 W60X 芯片的 Flash驱动。[W60x Flash驱动下载地址](https://github.com/w600/W600_QFLASH_Driver_for_SWD)
+上图中，点击 Setting，如下图 Flash Download 标签中配置 RAM 和 Flash参数必须与前面配置的地址 一致，点击 Add 按钮选择 W60X 芯片的 Flash驱动。[W60x Flash驱动下载地址](http://github.com/w600/W600_QFLASH_Driver_for_SWD)
 
 ![image](../.assets/app/swd/1547516488553.png)
 

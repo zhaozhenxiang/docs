@@ -21,14 +21,14 @@ W601 全功能开发板是由**联盛德、正点原子、RT-Thread**三方联�
 
 ## 资料下载
 
-[光盘资料汇总下载](https://eyun.baidu.com/s/3hueg2EC)
+[光盘资料汇总下载](http://eyun.baidu.com/s/3hueg2EC)
 
 ## 其它
 
-[RT-Thread-Github](https://github.com/RT-Thread/W601_IoT_Board)
+[RT-Thread-Github](http://github.com/RT-Thread/W601_IoT_Board)
 
-[RT-Thread文档中心](https://www.rt-thread.org/document/site/)
+[RT-Thread文档中心](http://www.rt-thread.org/document/site/)
 
 [正点原子开发论坛](http://openedv.com)
 
-[正点原子W601开发板QQ交流群：797416020](https://jq.qq.com/?_wv=1027&k=5fcxk5i)
+[正点原子W601开发板QQ交流群：797416020](http://jq.qq.com/?_wv=1027&k=5fcxk5i)

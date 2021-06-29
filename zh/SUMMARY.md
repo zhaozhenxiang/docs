@@ -29,6 +29,6 @@
   * [W600 无线透传调试工具使用指南](app/trans.md)
 * [常见问题](faq/index.md)
 * [文档贡献](CONTRIBUTING.md)
-* [资料下载](https://download.w600.fun/)
+* [资料下载](http://download1.thingsturn.com/)
 
 

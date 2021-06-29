@@ -9,14 +9,14 @@
 ### 准备
 
 
-* [W600串口下载调试助手](https://download.w600.fun/tool/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
-* [W600无线透传调试工具](https://download.w600.fun/tool/ThingsTurn_Wireless_Config_Tools.7z)
-* [W600无线透传固件](https://download.w600.fun/firmware/thingsturn_tb02_firmware_20190821.fls)
+* [W600串口下载调试助手](http://download1.thingsturn.com/tool/%E6%98%9F%E9%80%9A%E6%99%BA%E8%81%94%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.7z)
+* [W600无线透传调试工具](http://download1.thingsturn.com/tool/ThingsTurn_Wireless_Config_Tools.7z)
+* [W600无线透传固件](http://download1.thingsturn.com/firmware/thingsturn_tb02_firmware_20190821.fls)
 * [TB-02 开发板](http://shop.thingsturn.com)  * 2
 * Windows PC * 1
 ### 固件烧录
 
-按照下图说明对2块w600开发板进行下载，更多细节可查看 [w600固件烧录指南](https://docs.w600.fun/?p=app/download.md)
+按照下图说明对2块w600开发板进行下载，更多细节可查看 [w600固件烧录指南](http://w600.thingsturn.com/?p=app/download.md)
 
 ![img](../.assets/app/trans/image4.png) 
 

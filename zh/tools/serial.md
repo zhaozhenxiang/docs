@@ -65,11 +65,11 @@
 
 ## 资源下载
 
-[最新版本下载地址](https://download.w600.fun/tool/ThingsTurn_Serial_Tool.7z)
+[最新版本下载地址](http://download1.thingsturn.com/7_Tools/ThingsTurn_Serial_Tool/ThingsTurn_Serial_Tool.exe)
 
 ## 常见问题
 
-*   需安装 [DotNetFx40 Framework](https://www.microsoft.com/en-us/download/details.aspx?id=17718) 框架；
+*   需安装 [DotNetFx40 Framework](http://www.microsoft.com/en-us/download/details.aspx?id=17718) 框架；
 
 *   串口需根据实际芯片型号下载并安装对应的串口驱动
 
